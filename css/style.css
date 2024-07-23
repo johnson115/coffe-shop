@@ -657,13 +657,14 @@ button {
     background-image: url(../images/banner-bg.png);
     height: auto;
     background-size: 100% 100%;
+    background-position: center;
     background-repeat: no-repeat;
 }
 
 .header_bg {
     width: 100%;
     float: left;
-    background: #1d1d1d;
+    background-color: #1d1d1d;
     height: auto;
     background-size: 100%;
 }
